@@ -19,7 +19,6 @@
     "eslint": "^8.22.0",
     "eslint-plugin-vue": "^9.3.0",
     "histoire": "^0.10.7",
-    "historie": "^1.0.1",
     "prettier": "^2.7.1",
     "vite": "^3.0.9"
   }
